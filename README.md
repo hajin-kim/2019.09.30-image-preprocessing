@@ -8,7 +8,7 @@ ToDoList:
     2. Make deep learning to learn number recognition
     3. Make frontend to communicate with users
     4. Optimalize this preprocessing code with numpy and opencv.
-    5. Make other programs for the competition
+    5. Make other programs for the competition (with cpp)
 
 # 이미지 전처리
 
