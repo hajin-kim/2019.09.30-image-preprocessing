@@ -7,7 +7,7 @@ ToDoList:
     1. Extract image from video, for the training data
     2. Make deep learning to learn number recognition
     3. Make frontend to communicate with users
-    4. Optimalize the preprocessing code with numpy and opencv.
+    4. Optimalize this preprocessing code with numpy and opencv.
     5. Make other programs for the competition
 
 # 이미지 전처리
