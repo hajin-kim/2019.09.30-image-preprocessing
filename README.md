@@ -1,5 +1,7 @@
 # 2019.09.30-image-preprocessing
 
+## Remove color from image, make grayscale image with only white and black
+
 Goal: make <strong>AI number recognition</strong>(1 digit only), and participate in the competition, on 25 Oct 2019.
 
 ToDoList:
@@ -11,6 +13,8 @@ ToDoList:
     5. Make other programs for the competition (with cpp)
 
 # 이미지 전처리
+
+## 이미지 색상 제거, 완전 흑백화
 
 목표는 <strong>ai 숫자 인식기</strong>(한 자리 수) 만들어서, 박람회 출전하기. 운영일은 10/25 금요일.
 일단 이미지 전치리는 대강 되어가니, 데이터 확보랑 딥러닝이랑 프론트엔드 모듈만 어떻게 만들면 될 거 같다.
